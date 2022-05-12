@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Or09HcLUfHQfpA3DsrYoZRDhytY5xm7+Nh1U+u9uytQ=",
+  "Source": "MealPrep.API",
+  "BasePath": "_content/MealPrep.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
